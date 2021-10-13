@@ -1,8 +1,8 @@
-# La 19 escouade est la meilleure
+# La 19ème escouade est la meilleure
 
 Vous ne nous croyez pas? Voyons pauvre fous, venez avec nous pour voir la réalité.
 
-## Les délégues
+## Les délégués
 
 Et oui, effectivement. Émilie et Grégor (surtout lui) sont les grands points forts de cette équipe. Non pas choisis par envie, par démocratie ou une quelconque forme de vote, mais car leurs charismes, leurs force, leurs intelligence mais surtout leurs beauté font d'eux des leaders naturels! De plus, Émilie à été jusqu'au doctorat, tu y a été toi? Non, bah tu la fermes.
 
