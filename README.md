@@ -15,9 +15,9 @@
 
 Explications commandes a réaliser:
 
-  clone
+  clone Emillie / Ali
   
-  status
+  status  
   
   commit 
   
@@ -31,7 +31,7 @@ Explications commandes a réaliser:
   
   init
   
-  remote
+  remote akin cristian
   
 Création d'un dépôt principale par un utilisateur
 Création d'un dépôt secondaire par binôme
