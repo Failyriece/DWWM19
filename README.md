@@ -14,14 +14,23 @@
 
 
 Explications commandes a réaliser:
+
   clone
+  
   status
+  
   commit 
+  
   add
+  
   pull 
+  
   push
+  
   diff
+  
   init
+  
   remote
   
 Création d'un dépôt principale par un utilisateur
