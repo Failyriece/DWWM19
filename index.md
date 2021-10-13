@@ -37,3 +37,12 @@ Car bien évidemment, comme de bons ~~esclaves~~ petits, vous voulez voir nos si
 - [Princia](https://prinkuf.github.io/)
 - [Ali](https://daxio190.github.io/)
 - [Patrick](https://bandoba.github.io/)
+
+### Preuve de la supériorité des 19èmes
+
+Ouais, jvais pas vous lacher. Regardez ça!
+
+- [Clone et Init](https://femknight.github.io/clone/)
+- [Remote](https://akin-ay.github.io/remote/)
+- [Push et Pull](https://julienv-it.github.io/push-pull/)
+- [Status et Diff](https://julienv-it.github.io/status-diff/)
