@@ -2,19 +2,19 @@
 
 Vous ne nous croyez pas? Voyons pauvre fous, venez avec nous pour voir la réalité.
 
-[]()
+[apprennant]()
 
-[]()
+[apprennant]()
 
-[]()
+[apprennant]()
 
-[]()
+[apprennant]()
 
-[]()
+[apprennant]()
 
-[]()
+[apprennant]()
 
-[]()
+[apprennant]()
 
 
 ## Les délégues
