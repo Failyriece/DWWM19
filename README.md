@@ -17,19 +17,27 @@ Explications commandes a réaliser:
 
   clone Emillie / Ali
   
-  status  
+  init
   
+  -----
+    
   commit pierre / Michel 
   
   add
   
+  -----
+  
   pull 
   
   push
+
+  -----
+
+  status
   
   diff
   
-  init
+  -----
   
   remote akin cristian
   
