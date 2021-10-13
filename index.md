@@ -20,7 +20,7 @@ Clair et simple, elle est digeste. Ainsi elle ne nécéssite pas une heure longu
 
 ## Conclusion
 
-Vous n'êtes toujours pas convaincu? Regardez donc votre page, oui, là où est marquez ce texte. Voilà, vous êtes chez nous, alors soit on te tabasse, soit tu dis oui. Voilà, bon petit <3
+Vous n'êtes toujours pas convaincu? Regardez donc votre page, oui, là où est marquez ce texte. Voilà, vous êtes chez nous, alors soit on te tabasse, soit tu dis oui. Voilà, bon petit :heart:
 
 ### Voir les élèves
 
