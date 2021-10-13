@@ -28,14 +28,14 @@ Vous n'êtes toujours pas convaincu? Regardez donc votre page, oui, là où est 
 
 Car bien évidemment, comme de bons esc... petits, vous voulez voir nos sites, les voicis.
 
-- Grégor: https://failyriece.github.io/ (NICE)
-- Pierre bellin : https://prbe.github.io/
-- Emilie: https://github.com/femknight/femknight.github.io
-- Michel: https://github.com/Stuude/Stuude.github.io
-- Cristian: https://fifthyonko.github.io/
-- Akin : https://github.com/akin-ay/akin-ay.github.io
-- Jean-Marc: https://github.com/nxoo971/nxoo971.github.io
-- Albdallah https://github.com/abdallah785 (soucis matériel)
-- Princia: https://github.com/prinkuf (soucis matériel)
-- Ali : https://github.com/Daxio190/daxio190.github.io 
-- Patrick: https://github.com/bandoba/
+- [Grégor](https://failyriece.github.io/)
+- [Pierre](https://prbe.github.io/)
+- [Emilie](https://femknight.github.io/)
+- [Michel](https://stuude.github.io/)
+- [Cristian](https://fifthyonko.github.io/)
+- [Akin](https://akin-ay.github.io/)
+- [Jean-Marc](https://nxoo971.github.io/)
+- [Albdallah](https://abdallah785.github.io/)
+- [Princia](https://prinkuf.github.io/)
+- [Ali](https://daxio190.github.io/)
+- [Patrick](https://bandoba.github.io/)
