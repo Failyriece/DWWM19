@@ -24,7 +24,7 @@ Vous n'êtes toujours pas convaincu? Regardez donc votre page, oui, là où est 
 
 ### Voir les élèves
 
-Car bien évidemment, comme de bons esc... petits, vous voulez voir nos sites, les voicis.
+Car bien évidemment, comme de bons ~~esclaves~~ petits, vous voulez voir nos sites, les voicis.
 
 - [Grégor](https://failyriece.github.io/)
 - [Pierre](https://prbe.github.io/)
