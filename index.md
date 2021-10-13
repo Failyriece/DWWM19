@@ -21,3 +21,21 @@ Clair et simple, elle est digeste. Ainsi elle ne nécéssite pas une heure longu
 ## Conclusion
 
 Vous n'êtes toujours pas convaincu? Regardez donc votre page, oui, là où est marquez ce texte. Voilà, vous êtes chez nous, alors soit on te tabasse, soit tu dis oui. Voilà, bon petit <3
+
+
+
+### Voir les élèves
+
+Car bien évidemment, comme de bons esc... petits, vous voulez voir nos sites, les voicis.
+
+- Grégor: https://failyriece.github.io/ (NICE)
+- Pierre bellin : https://prbe.github.io/
+- Emilie: https://github.com/femknight/femknight.github.io
+- Michel: https://github.com/Stuude/Stuude.github.io
+- Cristian: https://fifthyonko.github.io/
+- Akin : https://github.com/akin-ay/akin-ay.github.io
+- Jean-Marc: https://github.com/nxoo971/nxoo971.github.io
+- Albdallah https://github.com/abdallah785 (soucis matériel)
+- Princia: https://github.com/prinkuf (soucis matériel)
+- Ali : https://github.com/Daxio190/daxio190.github.io 
+- Patrick: https://github.com/bandoba/
