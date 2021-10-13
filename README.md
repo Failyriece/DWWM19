@@ -19,7 +19,7 @@ Explications commandes a réaliser:
   
   status  
   
-  commit 
+  commit pierre / Michel 
   
   add
   
