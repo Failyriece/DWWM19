@@ -14,24 +14,28 @@
 
 
 Explications commandes a réaliser:
-
-  clone Emillie / Ali
+    **Emillie / Ali**
+  
+  clone 
   
   init
   
   -----
-    
-  commit pierre / Michel 
+    **Pierre / Michel**
+  
+  commit  
   
   add
   
   -----
+    **Emilie/Grégor**
   
   pull 
   
   push
 
   -----
+    ****
 
   status
   
